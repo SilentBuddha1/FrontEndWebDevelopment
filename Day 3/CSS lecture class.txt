@@ -1,0 +1,9 @@
+CSS - Cascading Style Sheets
+
+example 
+h1 {
+	color: red;
+}
+
+Here h1 is selector, color is property and red is value.
+
