@@ -7,3 +7,5 @@ h1 {
 
 Here h1 is selector, color is property and red is value.
 
+Today Day-4 Attending lecture of CSS fundamental....
+
