@@ -1,0 +1,50 @@
+h1:hover,h2:hover{
+  color:#333;
+  background-color: aquamarine;
+  border: #333 dotted 2px;
+  margin: 10px;
+  padding: 2px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+h3:hover{
+  color:blue;
+  background-color: thistle;
+  border: purple solid 2px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 10px;
+  padding: 2px;
+}
+
+p:hover{
+ background-color: lightgreen;
+  border: green dashed 2px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 10px;
+  padding: 2px;
+}
+
+div{
+  width: 400px;
+  height: 250px;
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  border: #333 solid 2px;
+  border-radius: 10px;
+  background-color: coral;
+  position: relative;
+
+}
+body{
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
