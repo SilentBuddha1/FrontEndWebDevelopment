@@ -1,0 +1,25 @@
+.box {
+  position: relative;
+  margin: 5px;
+  padding: 5px;
+}
+
+.input {
+  border-color: antiquewhite;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.label {
+  background-color: white;
+  color:black;
+  font-size: 15px;
+  position: absolute;
+  left: 25px;
+  padding: 2 2px;
+  top:-10px;
+}
+
+
+
+
