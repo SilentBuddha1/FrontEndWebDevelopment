@@ -1,3 +1,6 @@
+* {
+  box-sizing:border-box;
+}
 .box {
   position: relative;
   margin: 5px;
@@ -20,6 +23,24 @@
   top:-10px;
 }
 
+body {
+  margin:0;
+  padding: 0;
+  background-color: #efefef;
+}
+
+.page {
+  display: grid;
+  row-gap: 30px;
+  column-gap: 30px;
+  width: 100%;
+  padding: 30px;
+  margin: 0 auto;
+  grid-template-areas::
+    "order payment"
+    "total total";
+  grid-template-columns: 1fr 1fr;
+}
 
 
 
